@@ -9,6 +9,7 @@ int main() {
     float pib1;
     int pontos_turisticos1;
 
+    //Entrada de Dados da Carta 01:
     printf("Cadastro da Carta 1:\n");
     printf("Estado: ");
     scanf("%29s", estado1);
@@ -34,6 +35,7 @@ int main() {
     float pib2;
     int pontos_turisticos2;
 
+    // Entrada de Dados da Carta 02:
     printf("\nCadastro da Carta 2:\n");
     printf("Estado: ");
     scanf("%29s", estado2);
